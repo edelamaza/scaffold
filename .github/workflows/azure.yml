@@ -1,5 +1,5 @@
-name: Azure Python 
-on: [push]3.9.14
+name: Python 3.5 
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
